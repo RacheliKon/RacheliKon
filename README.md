@@ -1,4 +1,5 @@
-
+<!---
+- 👋 Hi, I’m @RacheliKon
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,10 +7,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+
 RacheliKon/RacheliKon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m @RacheliKon
+👋 Hi, I’m Racheli,
 🌱 I’m currently working on ways to be at my best, and wish to code a gameify version of the most successful and fast rout to get there
